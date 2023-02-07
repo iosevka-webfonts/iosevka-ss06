@@ -1,4 +1,4 @@
-# Iosevka SS06 WebFont 17.1.0
+# Iosevka SS06 WebFont 18.0.0
 
 ## How to use
 
